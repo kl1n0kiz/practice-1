@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/kl2n0kiz/practice-1/src/index.html)
+- [Публичная страница на GitHub Pages](https://kl2n0kiz.github.io/practice-1/src/index.html)
